@@ -7,7 +7,7 @@ This projects contains STL files for 3D models.
  
  On how to use the model, you can visit
  
- Youtube: 
+ Youtube: https://youtu.be/mk9d_qmZr68
  
  Xigua: https://www.ixigua.com/6873412685011091975/
  
