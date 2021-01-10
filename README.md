@@ -24,3 +24,8 @@ This projects contains STL files for 3D models.
  Xigua: https://www.ixigua.com/6876811668727267853/
 
 
+3. FM Board Box
+ - fm\_box.stl
+ - fm\_box_cover.stl
+ On how to use the model, TBD
+ 
